@@ -1,0 +1,4 @@
+sample_1	fastq	../sample_1-1.fastq.gz	../sample_1-2.fastq.gz
+sample_2	fastq	../sample_2-1.fastq.gz	../sample_2-2.fastq.gz
+sample_3	fastq	../sample_3-1.fastq.gz	../sample_3-2.fastq.gz
+sample_4	fastq	../sample_4-1.fastq.gz	../sample_4-2.fastq.gz
