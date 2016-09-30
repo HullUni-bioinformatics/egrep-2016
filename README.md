@@ -2,7 +2,7 @@
 
 Repository for course 'Environmental Genomics Research Projects (egrep)' 2016 @EvoHull
 
-Find the course manual as live google doc [here](https://goo.gl/4iMTcj). A pdf of the course manual is included in the repo [here](https://github.com/HullUni-bioinformatics/egrep-2016/EGREPbioinfomanual2016.pdf).
+Find the course manual as live google doc [here](https://goo.gl/4iMTcj). A pdf of the course manual is included in the repo [here](https://github.com/HullUni-bioinformatics/egrep-2016/blob/master/EGREPbioinfomanual2016.pdf).
 
 Set yourself up for doing the course by cloning this repository to your local machine:
 ```bash
