@@ -8,10 +8,8 @@ Taxonomic assignment will be performed using two different approaches:
  - BLAST based LCA
  - [Kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html) (k-mer based sequence classification)
 
-We will be using a custom reference database (details can be found [here](https://github.com/HullUni-bioinformatics/egrep-2016/blob/master/data/reference-dbs/supplementary_material/download_reference_data.ipynb).
+We will be using a custom reference database (details on how it was produced can be found [here](https://github.com/HullUni-bioinformatics/egrep-2016/blob/master/data/reference-dbs/supplementary_material/download_reference_data.ipynb)). Students doing the course @EvoHull will find the databases at `../reference-dbs/`.
 
-Most of the input data you will need for the analysis you have already produced in exercise 3. The rest you can find in the directory `input_data`.
-
-We have prepared a [notebook](https://github.com/HullUni-bioinformatics/egrep-2016/blob/master/data/exercise-5/results_backup/Taxonomic_assignment.ipynb) that will guide you through the process.
+Most of the required input data you will need for the analysis you have already produced in exercise 3. We have prepared a [notebook](https://github.com/HullUni-bioinformatics/egrep-2016/blob/master/data/exercise-5/results_backup/Taxonomic_assignment.ipynb) that will guide you through generating the remaining input data and starting the process.
 
 [Back](https://docs.google.com/document/d/17-PcEZYIseTumXi2I0vIKAvMFRDBUqWFd96QueNyJxs/edit#heading=h.wgy7cwfmxgon) to the course manual.
